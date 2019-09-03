@@ -1,0 +1,4 @@
+node_modules
+dist
+precache-manifest.*.js
+service-worker-dist.js
